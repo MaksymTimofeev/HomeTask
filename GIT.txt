@@ -1,2 +1,3 @@
+git checkout -b namebranch
 git add . && git commit -m""
-git checkout -b test_branch
+git push origin
