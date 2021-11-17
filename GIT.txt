@@ -1,5 +1,5 @@
 git checkout -b namebranch
 git add . && git commit -m""
-git push origin
 
-git add . && git commit -m""
+Эту команду выполнить после мерж пул реквест на гид хабе
+git checkout main && git pull
